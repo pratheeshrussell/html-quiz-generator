@@ -1,0 +1,30 @@
+C:\Documents and Settings\Admin\Local Settings\Application Data\Temporary Projects\html_quiz_gen\bin\Debug\html_quiz_gen.exe
+C:\Documents and Settings\Admin\Local Settings\Application Data\Temporary Projects\html_quiz_gen\bin\Debug\html_quiz_gen.pdb
+C:\Documents and Settings\Admin\Local Settings\Application Data\Temporary Projects\html_quiz_gen\bin\Debug\html_quiz_gen.xml
+C:\Documents and Settings\Admin\Local Settings\Application Data\Temporary Projects\html_quiz_gen\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Admin\Local Settings\Application Data\Temporary Projects\html_quiz_gen\obj\Debug\html_quiz_gen.Form1.resources
+C:\Documents and Settings\Admin\Local Settings\Application Data\Temporary Projects\html_quiz_gen\obj\Debug\html_quiz_gen.Resources.resources
+C:\Documents and Settings\Admin\Local Settings\Application Data\Temporary Projects\html_quiz_gen\obj\Debug\html_quiz_gen.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Admin\Local Settings\Application Data\Temporary Projects\html_quiz_gen\obj\Debug\html_quiz_gen.exe
+C:\Documents and Settings\Admin\Local Settings\Application Data\Temporary Projects\html_quiz_gen\obj\Debug\html_quiz_gen.xml
+C:\Documents and Settings\Admin\Local Settings\Application Data\Temporary Projects\html_quiz_gen\obj\Debug\html_quiz_gen.pdb
+C:\Documents and Settings\Admin\My Documents\Visual Studio 2008\Projects\html_quiz_gen\html_quiz_gen\obj\Debug\html_quiz_gen.exe
+C:\Documents and Settings\Admin\My Documents\Visual Studio 2008\Projects\html_quiz_gen\html_quiz_gen\obj\Debug\html_quiz_gen.xml
+C:\Documents and Settings\Admin\My Documents\Visual Studio 2008\Projects\html_quiz_gen\html_quiz_gen\obj\Debug\html_quiz_gen.pdb
+C:\Documents and Settings\Admin\My Documents\Visual Studio 2008\Projects\html_quiz_gen\html_quiz_gen\bin\Debug\html_quiz_gen.exe
+C:\Documents and Settings\Admin\My Documents\Visual Studio 2008\Projects\html_quiz_gen\html_quiz_gen\bin\Debug\html_quiz_gen.pdb
+C:\Documents and Settings\Admin\My Documents\Visual Studio 2008\Projects\html_quiz_gen\html_quiz_gen\bin\Debug\html_quiz_gen.xml
+C:\Documents and Settings\Admin\My Documents\Visual Studio 2008\Projects\html_quiz_gen\html_quiz_gen\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Admin\My Documents\Visual Studio 2008\Projects\html_quiz_gen\html_quiz_gen\obj\Debug\html_quiz_gen.Form1.resources
+C:\Documents and Settings\Admin\My Documents\Visual Studio 2008\Projects\html_quiz_gen\html_quiz_gen\obj\Debug\html_quiz_gen.Resources.resources
+C:\Documents and Settings\Admin\My Documents\Visual Studio 2008\Projects\html_quiz_gen\html_quiz_gen\obj\Debug\html_quiz_gen.vbproj.GenerateResource.Cache
+I:\tpw\html_quiz_gen\html_quiz_gen\bin\Debug\html_quiz_gen.exe
+I:\tpw\html_quiz_gen\html_quiz_gen\bin\Debug\html_quiz_gen.pdb
+I:\tpw\html_quiz_gen\html_quiz_gen\bin\Debug\html_quiz_gen.xml
+I:\tpw\html_quiz_gen\html_quiz_gen\obj\Debug\ResolveAssemblyReference.cache
+I:\tpw\html_quiz_gen\html_quiz_gen\obj\Debug\html_quiz_gen.Form1.resources
+I:\tpw\html_quiz_gen\html_quiz_gen\obj\Debug\html_quiz_gen.Resources.resources
+I:\tpw\html_quiz_gen\html_quiz_gen\obj\Debug\html_quiz_gen.vbproj.GenerateResource.Cache
+I:\tpw\html_quiz_gen\html_quiz_gen\obj\Debug\html_quiz_gen.exe
+I:\tpw\html_quiz_gen\html_quiz_gen\obj\Debug\html_quiz_gen.xml
+I:\tpw\html_quiz_gen\html_quiz_gen\obj\Debug\html_quiz_gen.pdb
